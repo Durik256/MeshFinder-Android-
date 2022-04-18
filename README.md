@@ -77,6 +77,6 @@ analog for PC (Advanced Mesh Reaper, ModelResearcher, Hex2Obj).<br />
 5.Tab, show Normals panel<br />
 6.Save current param to (*.#MF) file<br />
 7.Show /Hide debug console(dragndrop and click)<br />
-(free assetshttps://assetstore.unity.com/packages/tools/gui/in-game-debug-console-68068).<br />
+(free assets https://assetstore.unity.com/packages/tools/gui/in-game-debug-console-68068).<br />
 <br />![alt text](https://github.com/Durik256/MeshFinder-Android-/blob/main/ui/debug.jpg)<br />
 
