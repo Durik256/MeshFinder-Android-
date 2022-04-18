@@ -1,5 +1,6 @@
 # MeshFinder-Android-
-It is designed to quickly get meshes with all the main attributes, including positions, normal vectors, texture coordinates, and, if necessary, to convert them to Obj (Wavefront .obj file).
+It is designed to quickly get meshes with all the main attributes, including positions, normal vectors, texture coordinates, and, if necessary, to convert them to Obj (Wavefront .obj file).<br />
+analog for PC (Advanced Mesh Reaper, ModelResearcher, Hex2Obj).<br />
 <br />![alt text](https://github.com/Durik256/MeshFinder-Android-/blob/main/ui/app.jpg)<br />
 *if model purple instal OpenGLES2 version.
 *if inside file browser only media.(Grant read and write permission in settings. "about the application")
