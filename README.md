@@ -50,3 +50,29 @@ It is designed to quickly get meshes with all the main attributes, including pos
 8.Go to next line.(or touch scroll)<br />
 9.Go to end list.<br />
 # HEX wiev panel #
+<br />![alt text](https://github.com/Durik256/MeshFinder-Android-/blob/main/ui/HEX_view_panel0.jpg)<br />
+1.bytes.<br />
+2.decode text (windows - 1252).<br />
+3.cur select addres.<br />
+4.data inspector.<br />
+<br />![alt text](https://github.com/Durik256/MeshFinder-Android-/blob/main/ui/HEX_view_panel.jpg)<br />
+1.InputField go to input adress.<br />
+2.InputField step scroll.<br />
+3.toggle hex or decimal("go to","cur addres").<br />
+4.Go to start file.<br />
+5.Go to previous line.(or touch scroll)<br />
+6.Go to next line.(or touch scroll)<br />
+7.Go to end file.<br />
+# Middle Tools Buttons #
+<br />![alt text](https://github.com/Durik256/MeshFinder-Android-/blob/main/ui/buttons_panel.jpg)<br />
+1.Show /Hide calculator.(blue circle dragndrop resize calc)<br />
+<br />![alt text](https://github.com/Durik256/MeshFinder-Android-/blob/main/ui/calculator.jpg)<br />
+2.Toggle switch endian (Little, Big).<br />
+3.Tab, show mesh panel(vertices and faces panels).<br />
+4.Tab, show UVs panel.<br />
+5.Tab, show Normals panel<br />
+6.Save current param to (*.#MF) file<br />
+7.Show /Hide debug console(dragndrop and click)<br />
+(free assetshttps://assetstore.unity.com/packages/tools/gui/in-game-debug-console-68068).<br />
+<br />![alt text](https://github.com/Durik256/MeshFinder-Android-/blob/main/ui/debug.jpg)<br />
+
